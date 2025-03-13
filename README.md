@@ -1,3 +1,4 @@
 # hello-world
-csci3251
-1
+My name is LiMolin
+My SID is 1155191354
+
